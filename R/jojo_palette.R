@@ -17,9 +17,9 @@ jojo_palette <- list(
   Koichi = c("#225544","#9d9f9d","#49305e","#d99233","#98b2e9"),
   Giovana = c("#ffd666","#ffe2ba","#d66cff","#3c53ff","#3d3396"), #https://www.colourlovers.com/palette/4710946/Giorno_Giovanna?widths=1
   Fugo = c("#2e3e8c","#f7b25c","#aabe57","#b43b7f","#5e3c9b"), #https://jojo.fandom.com/f/p/4400000000000092610
-  Trish = c("#5a487a","#2d243d","#fbd125","#dd458c","#eyyfae"), #https://www.color-hex.com/color-palette/39081
+  Trish = c("#5a487a","#2d243d","#fbd125","#dd458c","#e77fae"), #https://www.color-hex.com/color-palette/39081
   Mista = c("#913a31","#1b5b9a","#f8a877","#6d57a7","#e6ba65"),
-  Diavolo = c("#765db5","#409c62","#fc8bb9","#f3ee85","9fee60"), #https://jojo.fandom.com/f/p/4400000000000092610
+  Diavolo = c("#765db5","#409c62","#fc8bb9","#f3ee85","#9fee60"), #https://jojo.fandom.com/f/p/4400000000000092610
   Yasuho = c("#fbedbe","#f87d99","#f394bf","#7dd7fb","#6b3ba7"), #https://www.color-hex.com/color-palette/38956
   VinegarDoppio = c("#f77199","#fcd1a1","#cf81d2","51ac7a","#68549d"), #https://www.color-hex.com/color-palette/91476
   SmokeyBrown = c("#2b3d38","#ada247","#cac9c4","#55816f","#5f4439"), #https://www.color-hex.com/color-palette/113255
